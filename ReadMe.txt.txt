@@ -1,4 +1,3 @@
 Git Test 2
-commit by user2
-
+Test commit by user 1
 Git Test
